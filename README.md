@@ -3,7 +3,7 @@
 ## Description
 This is a simple project that builds a Spring Boot backend with JPA and PostgreSQL. Using API Level, Service Layer and Data Access Layer and only one table.
 It was created a few JUnit5 tests so I could learn how it would be configurated.
-To execute this project you can try just Running DemoApplication.java, if you want to buil a jar you can package the project and it will be generated inside target folder.
+To execute this project you can try just Running DemoApplication.java, if you want to build a jar you can package the project and it will be generated inside target folder.
 
 ## Project Structure
 ```
